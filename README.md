@@ -360,9 +360,8 @@ Características de un transformador no ideal
 
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
-*24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
 
-ca. El voltaje secundario es de 600 V.
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
 
 (a) ¿Cuál es la corriente máxima en la carga?
 
@@ -398,11 +397,9 @@ Localización de fallas
 
 ¿Cuál es la falla más probable?
 
-
-
 VIDEO:
 
-LINK:
+LINK: https://www.youtube.com/watch?v=7MDpQb9hh0
 
 CONCLUSIONES:
 
