@@ -2,21 +2,21 @@
 
 ![image](https://user-images.githubusercontent.com/117923992/213779848-4b5ca505-af61-413d-bb7b-eaeb95cee237.png)
 
-UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+      UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-FUNDAMENTO DE CIRCUITOS ELECTRICOS
+      FUNDAMENTO DE CIRCUITOS ELECTRICOS
 
-Nombre del Estudiante: Victor Hugo Toapanta Tipantuña
+      Nombre del Estudiante: Victor Hugo Toapanta Tipantuña
 
-NRC: 10063-10066
+      NRC: 10063-10066
 
-Nombre del Docente: Ing. Darwin Omar Alulema Flores
+      Nombre del Docente: Ing. Darwin Omar Alulema Flores
 
-Fecha de Presentación: 16 de Enero de 2023
+      Fecha de Presentación: 9 de febrero de 2023
 
 TAREA N° 7
 
-OBJETIVOS:
+      OBJETIVOS:
 
 OBJETIVOS GENERALES 
 
@@ -42,7 +42,7 @@ OBJETIVOS ESPECIFICOS
 
 • Localizar fallas en circuitos
 
-MARCO TEORICO
+      MARCO TEORICO
 
 CAPITULO 13
 
@@ -52,7 +52,7 @@ CAPITULO 14
 
 ![image](https://user-images.githubusercontent.com/117923992/213798622-4aa2d027-23e0-422a-8579-45337253e3f1.png)
 
-APLICACION Y RESOLUCION DE EJERCISICIOS O PROBLEMAS:
+      APLICACION Y RESOLUCION DE EJERCISICIOS O PROBLEMAS:
 
 CAPITULO 13
 
@@ -397,11 +397,11 @@ Localización de fallas
 
 ¿Cuál es la falla más probable?
 
-VIDEO:
+      VIDEO:
 
 LINK: https://www.youtube.com/watch?v=7MDpQb9hh0
 
-CONCLUSIONES:
+      CONCLUSIONES:
 
 Los inductores y transformadores son componentes eléctricos esenciales en muchos sistemas y aplicaciones electrónicas.
 
@@ -413,6 +413,6 @@ Los inductores y transformadores son componentes cruciales en la distribución d
 
 En resumen, los inductores y transformadores son componentes importantes en la electrónica y tienen un papel fundamental en la mejora y optimización de muchos sistemas y aplicaciones eléctricas.
 
-BIBLIOGRAFIA:
+      BIBLIOGRAFIA:
 
 • Floyd, TL (sf). Principios de circuitos eléctricos (8.a ed.). http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
