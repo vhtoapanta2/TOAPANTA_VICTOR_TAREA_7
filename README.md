@@ -360,22 +360,29 @@ Características de un transformador no ideal
 
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
+![image](https://user-images.githubusercontent.com/117923992/217888042-5b27665e-a40c-4082-b251-7afa1e2f179c.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888082-e2bdb321-282b-48b0-92d3-44e22dc3424d.png)
 
 24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
 
 (a) ¿Cuál es la corriente máxima en la carga?
 
-(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
-
-(c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+![image](https://user-images.githubusercontent.com/117923992/217888124-079b695b-47a2-45c2-9fef-dadfee9bdf82.png)
 
 *26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
 
 (a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
 
+![image](https://user-images.githubusercontent.com/117923992/217888204-6d48d83e-365b-4437-9812-d4f26db3f5de.png)
+
 (b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
 
+![image](https://user-images.githubusercontent.com/117923992/217888251-14449b13-4bc0-4e7e-9ad1-51546894d2a2.png)
+
 (c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/117923992/217888307-4433036c-409b-4b52-9234-b4f5bd3027fd.png)
 
 Transformadores con tomas y devanados múltiples
 
@@ -383,9 +390,21 @@ Transformadores con tomas y devanados múltiples
 
 ![image](https://user-images.githubusercontent.com/117923992/217817975-cc5628c3-9055-428e-99cf-70e28ec536fc.png)
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+Aplicando la formula:
 
-![image](https://user-images.githubusercontent.com/117923992/217818054-a2c39835-7546-4978-b136-23aa1bf506f2.png)
+![image](https://user-images.githubusercontent.com/117923992/217888461-f3bf372f-3518-45da-8666-c8ef66f92ac7.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888491-e27230da-3eaf-4fdf-bbad-8c5a92799978.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888546-1887f9ef-f772-4aab-8e24-2618758ad978.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888592-76a1cb4b-2a24-47b3-8453-63e72ef81ea0.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888623-33bbf046-69ee-4deb-ab1a-2416bb1fbbb7.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888652-5480c2d7-8d1f-481f-8dd8-a2fcc7fe924b.png)
+
+![image](https://user-images.githubusercontent.com/117923992/217888682-cb5096bc-ccc5-4be4-b06c-362f69b38b11.png)
 
 Localización de fallas
 
@@ -393,9 +412,13 @@ Localización de fallas
 
 ¿Cuál es el siguiente paso en la investigación del problema?
 
+![image](https://user-images.githubusercontent.com/117923992/217887866-9ff900dd-e4a3-46d2-a8f0-5e46f1917005.png)
+
 34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. 
 
 ¿Cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/117923992/217887910-8e520d5e-c55f-4d93-8135-0c4298bb3944.png)
 
       VIDEO:
 
